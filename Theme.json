@@ -117,7 +117,7 @@
             "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "transparent"
+            "#00000080"
         ]
     },
     "rawColors": {
@@ -148,8 +148,8 @@
     },
     "spec": 2,
     "background": {
-        "url": "https://i.imgur.com/2BUNiHI.jpeg",
-        "alpha": 0.3,
+        "url": "https://i.imgur.com/1Z4sfxr.jpeg",
+        "alpha": 0.67,
         "color": "#081924"
     }
     }
