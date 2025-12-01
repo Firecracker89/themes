@@ -51,19 +51,19 @@
             "#B591B8"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#222100"
+            "#7FFF00AA"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#000000"
@@ -117,7 +117,7 @@
             "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#00000080"
+            "#66023c"
         ]
     },
     "rawColors": {
