@@ -1,0 +1,13 @@
+{
+  "name": "SF Monospace font",
+  "fonts": [
+    {
+      "font": "PT Mono",
+      "url": ""
+    },
+    {
+      "font": "Lekton",
+      "url": ""
+    }
+  ]
+}
