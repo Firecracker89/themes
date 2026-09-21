@@ -1,13 +1,12 @@
-{
-  "name": "Monospace fonts",
-  "fonts": [
-    {
-      "font": "PT Mono",
-      "url": "https://github.com/Firecracker89/themes/raw/main/PTMono-Regular.ttf"
-    },
-    {
-      "font": "Lekton",
-      "url": "https://github.com/Firecracker89/themes/raw/main/Lekton-Regular.ttf"
-    }
-  ]
-}
+[
+  {
+    "spec": 1,
+    "name": "PT Mono",
+    "main": "https://github.com/Firecracker89/themes/raw/main/PTMono-Regular.ttf"
+  },
+  {
+    "spec": 1,
+    "name": "Lekton",
+    "main": "https://github.com/Firecracker89/themes/raw/main/Lekton-Regular.ttf"
+  }
+]
