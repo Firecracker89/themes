@@ -3,11 +3,11 @@
   "fonts": [
     {
       "font": "PT Mono",
-      "url": ""
+      "url": "https://github.com/Firecracker89/themes/raw/main/PTMono-Regular.ttf"
     },
     {
       "font": "Lekton",
-      "url": ""
+      "url": "https://github.com/Firecracker89/themes/raw/main/Lekton-Regular.ttf"
     }
   ]
 }
